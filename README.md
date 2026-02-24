@@ -35,3 +35,21 @@ Python-based voice automation system implementing speech recognition, command pa
 - Python, Java
 - JavaScript (Node.js, Express.js, React.js)
 - MongoDB
+- REST API Design
+- Git and GitHub Pages Deployment
+
+---
+
+## Academic Development 
+
+- Machine Learning - Stanford ML Specialization
+- Python and Java Programming - Google and Duke University
+- Data Structures and Algorithms(DSA) Problem solving (Dynamic Programming, Graphs, Backtracking)
+
+This portfolio reflects my progression and clear dedication toward advanced study in Computer Science and AI systems engineering.
+
+---
+
+GitHub:-
+https://github.com/nishant-1510
+
